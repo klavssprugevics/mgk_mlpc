@@ -1,0 +1,10 @@
+__pycache__/*
+data/vecpilseta/extracted_points/*
+data/vecpilseta/points/*
+
+!models/vecpilseta/
+models/vecpilseta/*
+!models/vecpilseta/best_model_ar_izkliedi/
+!models/vecpilseta/best_model_bez_izkliedes/
+!models/vecpilseta/results_bez_izkliedes.csv
+!models/vecpilseta/results.csv
